@@ -1,23 +1,20 @@
-# 👋 Olá, eu sou o Yan Mendes!
-
-![Yan Mendes](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
----
+# 👋 Olá, eu sou o **Yan Mendes!**
 
 ## 🧑‍💻 Desenvolvedor em Formação
 
-Atualmente, estou em transição para a área de desenvolvimento, focado em aprender Python e expandir meus conhecimentos em programação. Meu objetivo é adquirir habilidades sólidas para atuar como desenvolvedor full stack e contribuir para soluções tecnológicas inovadoras.
+Atualmente, estou em transição para a área de desenvolvimento, focado em aprender **Python** e expandir meus conhecimentos em programação. Meu objetivo é adquirir habilidades sólidas para atuar como **desenvolvedor full stack** e contribuir para soluções tecnológicas inovadoras.
 
 ---
 
 ### 📫 Contato
-* 🌍 Brasil
-* ✉️ [yanmendes50@gmail.com](mailto:yanmendes50@gmail.com)
+- 🌍 **Localização:** Brasil  
+- ✉️ **E-mail:** [yanmendes50@gmail.com](mailto:yanmendes50@gmail.com)
 
 ---
 
-### 🔧 Skills 
-<p align="left">
+### 🔧 Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
     </a>
@@ -51,43 +48,43 @@ Atualmente, estou em transição para a área de desenvolvimento, focado em apre
     <a href="https://www.linux.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
     </a>
-</p>
+</div>
 
 ---
 
 ### 📚 Tecnologias em Aprendizado
-* Node.js
-* Docker
-* APIs REST
-* HTML e CSS
+- **Node.js**
+- **Docker**
+- **APIs REST**
+- **HTML e CSS**
 
 ---
 
 ### 💼 Experiência
-* Jovem aprendiz - T.I, Empresa: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Unigel_logo.svg/1024px-Unigel_logo.svg.png" width="80" alt="Unigel Logo"> Unigel
+- **Jovem Aprendiz - T.I**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Unigel_logo.svg/1024px-Unigel_logo.svg.png" width="80" alt="Unigel Logo"> Unigel
 
 ---
 
 ### 🎓 Certificações
-* [Certificação em computação em nuvem - AWS](https://drive.google.com/file/d/15XVERhU49Y6OW2OO6Qd4G8vu3tHOAF5q/view?usp=sharing)
-* [Outra Certificação](https://drive.google.com/file/d/1dKDhj13FblgWkEh27ShK20j-A_P4XV1n/view?usp=sharing)
+- [Certificação em Computação em Nuvem - AWS](https://drive.google.com/file/d/15XVERhU49Y6OW2OO6Qd4G8vu3tHOAF5q/view?usp=sharing)
+- [Outra Certificação](https://drive.google.com/file/d/1dKDhj13FblgWkEh27ShK20j-A_P4XV1n/view?usp=sharing)
 
 ---
 
 ### 🌟 Hobbies
-* Jogar videogames
-* Aprender sobre novas tecnologias
-
+- Jogar videogames
+- Aprender sobre novas tecnologias
 
 ---
 
-###  Objetivos Finais
-Meu objetivo é me tornar um especialista em desenvolvimento full stack, aplicando minhas habilidades em projetos com impacto positivo.
+### 🎯 Objetivos Finais
+Meu objetivo é me tornar um especialista em **desenvolvimento full stack**, aplicando minhas habilidades em projetos com impacto positivo.
 
 ---
 
 ### 💬 Filosofia
-"Desenvolver software é como resolver um quebra-cabeça: cada parte é fundamental para construir algo único."
+_"Desenvolver software é como resolver um quebra-cabeça: cada parte é fundamental para construir algo único."_
 
 ---
 
@@ -102,10 +99,11 @@ Meu objetivo é me tornar um especialista em desenvolvimento full stack, aplican
 
 ### 🚀 Projetos em Destaque
 
+
 ---
 
 ### 🔗 Minhas Redes Sociais
-* [GitHub](https://github.com/YanMM50)
-* [LinkedIn](https://www.linkedin.com/in/yan-mendes-6610b8217/)
+- [GitHub](https://github.com/YanMM50)
+- [LinkedIn](https://www.linkedin.com/in/yan-mendes-6610b8217/)
 
 ---
