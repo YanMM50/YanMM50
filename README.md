@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Yan Mendes!
 
-Sou apaixonado por tecnologia e desenvolvimento de software. Com experiência prática em suporte técnico e um aprendizado constante em linguagens de programação, estou focado em aprimorar minhas habilidades como desenvolvedor júnior.
+Sou um desenvolvedor em início de carreira com experiência prática em suporte técnico e um grande interesse por desenvolvimento de software. Estou sempre em busca de aprimorar minhas habilidades em programação e contribuir para projetos que fazem a diferença.
 
 ---
 
@@ -10,45 +10,39 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Com experiência pr
 - **Banco de Dados**: MySQL, MongoDB (básico)
 - **Ferramentas de Versionamento**: Git e GitHub
 - **Sistemas Operacionais**: Linux, Windows
-- **Outras Ferramentas**: VS Code, Figma (para design básico), CLI, Docker (básico)
+- **Outras Ferramentas**: VS Code, Docker (básico), CLI
 
 ---
 
 ## 🚀 Objetivo Profissional
-Estou em busca de oportunidades como Desenvolvedor Júnior para aplicar e expandir meus conhecimentos, contribuir com projetos de impacto e evoluir como profissional no setor de tecnologia.
+Estou em busca de uma posição como Desenvolvedor Júnior para aplicar minhas habilidades e aprender mais com equipes de desenvolvimento. Gosto de colaborar em projetos e contribuir para soluções tecnológicas de qualidade.
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### [Projeto 1: Gerenciador de Tarefas](https://github.com/yanmendesmatos/gerenciador-de-tarefas)
-Um aplicativo simples de gerenciamento de tarefas feito com Node.js e MongoDB. Permite ao usuário adicionar, editar e excluir tarefas com uma interface amigável.
 
-### [Projeto 2: Landing Page de Portfólio](https://github.com/yanmendesmatos/landing-page-portfolio)
-Uma landing page profissional feita com HTML, CSS e JavaScript, com foco em responsividade e design moderno.
-
-### [Projeto 3: API RESTful Básica](https://github.com/yanmendesmatos/api-restful-basica)
-Uma API RESTful desenvolvida em Node.js com Express e MongoDB, criando um CRUD básico de produtos.
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yanmendesmatos&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanmendesmatos&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanMM50&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanMM50&layout=compact&theme=radical)
 
 ---
 
 ## 🌱 Atualmente Aprendendo
-- Aprimorando habilidades em **Node.js** e **React**
-- Explorando banco de dados NoSQL e GraphQL
-- Melhorando lógica de programação e estrutura de dados
+- **Node.js** e **React** para desenvolvimento backend e frontend
+- **Docker** para deploy de aplicações
+- Estrutura de dados e algoritmos
 
 ---
 
 ## 🌐 Contato
 - [LinkedIn](https://www.linkedin.com/in/yan-mendes-6610b8217/)
+- [GitHub](https://github.com/YanMM50)
 - Email: yanmendes50@gmail.com
 
 ---
 
-👨‍💻 Estou sempre aberto a colaborações em projetos de código aberto e disposto a aprender novas tecnologias. Vamos nos conectar!
+👨‍💻 Estou sempre aberto a colaborações e novas ideias para projetos em código aberto. Vamos nos conectar e construir algo juntos!
