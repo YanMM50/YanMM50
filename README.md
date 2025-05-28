@@ -71,4 +71,23 @@ _(E outros...)_
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YanMM50&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="190"/>
-  <img src="https://streak-stats.
+  <img src="https://streak-stats.demolab.com/?user=YanMM50&theme=tokyonight" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMM50&layout=compact&theme=tokyonight" height="190"/>
+</div>
+
+---
+
+### 🧠 Filosofia
+
+> "Desenvolver software é como resolver um quebra-cabeça: cada parte é fundamental para construir algo único."
+
+---
+
+### 🌐 **Redes Sociais**
+
+<p align="center">
+  <a href="https://github.com/YanMM50"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yan-mendes-6610b8217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
